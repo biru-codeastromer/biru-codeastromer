@@ -16,6 +16,7 @@
 - Open-source projects related to AI and robotics 🤝
 - Hacktoberfest contributions 🍂
 - Projects that involve automation using Python 🐍
+- Mainly focused on doing front end development at present
 
 ## 📫 How to reach me:
 - Email: [birajitsaikia@gmail.com](mailto:birajitsaikia@gmail.com)
