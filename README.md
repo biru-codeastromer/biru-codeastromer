@@ -2,7 +2,10 @@
   <img src="https://avatars.githubusercontent.com/biru-codeastromer" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
+
 # 👋 Hi, I’m @biru-codeastromer
+
+![BIRAJIT SAIKIA Animation](https://raw.githubusercontent.com/biru-codeastromer/biru-codeastromer/main/ghpp.gif)
 
 ### 🌟 About Me  
 - 🚀 AI Enthusiast | 🤖 Robotics Innovator | 💻 Full Stack Developer
