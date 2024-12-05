@@ -66,8 +66,7 @@
 
 ### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biru-codeastromer&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biru-codeastromer&layout=compact&theme=radical)  
-![GitHub Streak Stats](https://streak-stats.demolab.com?user=biru-codeastromer&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biru-codeastromer&layout=compact&theme=radical) 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=biru-codeastromer&theme=github-dark)
 
 
