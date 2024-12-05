@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/biru-codeastromer" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
-
-<div align="center">
   <img src="birajit_logo.svg" alt="Custom Logo" width="300" />
 </div>
 
