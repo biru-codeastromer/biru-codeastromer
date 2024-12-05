@@ -2,7 +2,7 @@
 # 👋 Hi, I’m @biru-codeastromer
 
 ### 🌟 About Me  
-- 🚀 AI Enthusiast | 🤖 Robotics Innovator** | 💻 Full Stack Developer
+- 🚀 AI Enthusiast | 🤖 Robotics Innovator | 💻 Full Stack Developer
 - 🎨 Full-stack developer
 - 🌐 Passionate about blending creativity with technology to craft innovative solutions.
 
@@ -48,16 +48,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-#### **Design Tools**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black)  
 
----
 
 ### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biru-codeastromer&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biru-codeastromer&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biru-codeastromer&theme=radical)  
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=biru-codeastromer&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=biru-codeastromer&theme=github-dark)
+
 
 ---
 
