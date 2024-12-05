@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/biru-codeastromer/biru-codeastromer/main/header-animation.svg" alt="Coding Animation" style="width: 100%; height: auto;">
+  <img src="https://avatars.githubusercontent.com/biru-codeastromer" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 # 👋 Hi, I’m @biru-codeastromer
@@ -33,19 +33,6 @@
 - 🍂 Hacktoberfest and global hackathon challenges  
 
 ---
-## 🏆 GitHub Achievements:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biru-codeastromer&theme=dark" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=biru-codeastromer&theme=onedark" alt="GitHub Trophies">
-</div>
-
-### 🌟 Stickers and Badges:
-<div align="center">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/100/external-award-coding-flat-flat-juicy-fish.png" height="80" alt="Sticker 1">
-  <img src="https://img.icons8.com/color/100/medal-second-place.png" height="80" alt="Sticker 2">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/external-coding-education-flaticons-lineal-color-flat-icons.png" height="80" alt="Sticker 3">
-</div>
----
 ## 📬 Get in Touch:
 <div align="center">
   <a href="https://github.com/biru-codeastromer" target="_blank">
@@ -54,17 +41,13 @@
   <a href="https://www.linkedin.com/in/birajit-saikia-08125030a/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/60/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/birajit_insta/" target="_blank">
+  <a href="https://www.instagram.com/birajit.saikia/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/60/instagram-new.png" alt="Instagram" />
   </a>
   <a href="mailto:birajitsaikia@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/60/email.png" alt="Email" />
   </a>
 </div>
-
-
-- 📧 **Email**: [birajitsaikia@gmail.com](mailto:birajitsaikia@gmail.com)  
-- 💼 **LinkedIn**: [birajit-saikia](https://www.linkedin.com/in/birajit-saikia-08125030a/)  
 
 ---
 
@@ -108,11 +91,6 @@
 When I’m not coding, I’m either batting on the cricket field or analysing cricketing stuff around!
 
 ---
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/biru-codeastromer" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
-
-
 
 <!---
 biru-codeastromer/biru-codeastromer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
