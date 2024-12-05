@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
+  <!-- Background -->
+  <rect width="400" height="150" fill="#1e1e2e" rx="15" />
+  
+  <!-- Outer Glow -->
+  <circle cx="80" cy="75" r="60" fill="#6c63ff" filter="url(#glow)" />
+  <defs>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Inner Robot Icon -->
+  <circle cx="80" cy="75" r="50" fill="#ffffff" />
+  <circle cx="60" cy="75" r="8" fill="#6c63ff" />
+  <circle cx="100" cy="75" r="8" fill="#6c63ff" />
+  <rect x="65" y="65" width="30" height="10" rx="5" ry="5" fill="#6c63ff" />
+  
+  <!-- Text -->
+  <text x="150" y="90" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold">
+    BIRAJIT
+  </text>
+  <text x="150" y="120" fill="#b3b3b3" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    AI | Robotics | Developer
+  </text>
+</svg>
