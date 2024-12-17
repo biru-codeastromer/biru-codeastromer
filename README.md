@@ -2,7 +2,6 @@
   <img src="birajit_logo.svg" alt="Custom Logo" width="300" />
 </div>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+everyone%2C;Myself+BIRAJIT+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing Animation">
 </div>
@@ -74,9 +73,11 @@
 ---
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biru-codeastromer&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biru-codeastromer&layout=compact&theme=radical) 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=biru-codeastromer&theme=github-dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biru-codeastromer&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biru-codeastromer&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biru-codeastromer&theme=github-dark" alt="GitHub Contribution Graph" />
+</div>
 
 ---
 
@@ -98,3 +99,7 @@
 When I’m not coding, I’m either batting on the cricket field or analysing cricketing stuff around!
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+</div>
