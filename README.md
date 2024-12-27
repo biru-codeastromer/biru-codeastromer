@@ -10,21 +10,24 @@
 
 ![BIRAJIT SAIKIA Animation](https://raw.githubusercontent.com/biru-codeastromer/biru-codeastromer/main/ghpp.gif)
 
-### 🌟 About Me  
-- 🚀 AI Enthusiast | 🤖 Robotics Innovator | 💻 Full Stack Developer
+## 🌟 About Me  
+
+- 🚀 AI Enthusiast  | 💻 Web Developer
 - 🎨 Full-stack developer
 - 🌐 Passionate about blending creativity with technology to craft innovative solutions.
 
 ---
 
-### 👀 What I'm Interested In
-- 🤖 Artificial Intelligence & Robotics (especially humanoid designs)  
+## 👀 What I'm Interested In
+
+- 🤖 Artificial Intelligence 
 - 💻 Software Development & Full Stack Web Development  
-- 🏏 Cricket (because coding isn’t my only game!)
+- 🏏 Cricket (because coding isn’t my only game!😄)
 
 ---
 
-### 🌱 **What I’m Learning**
+## 🌱 **What I’m Learning**
+
 - 🔷 **C++**: Enhancing my programming expertise  
 - 📚 **Data Structures & Algorithms**: Mastering computational problem-solving  
 - 🌐 **Front-End Development**: Exploring modern UI frameworks and tools  
@@ -32,29 +35,29 @@
 
 ---
 
-### 💞️ **What I’m Looking to Collaborate On**
-- 🌍 Open-source projects focused on **AI**, **robotics**, and **automation**  
+## 💞️ **What I’m Looking to Collaborate On**
+
+- 🌍 Open-source projects focused on **AI**, **web & app development**, and **automation**  
 - 🔧 Python-based automation tools and applications  
-- 🎨 Front-end development projects to build innovative web solutions  
-- 🍂 Hacktoberfest and global hackathon challenges  
+- 🎨 Full-stack development projects to build innovative web solutions   
 
 ---
 
-### 🛠️ **Skills & Technologies**
+## 🛠️ **Skills & Technologies**
 
-#### **Languages**  
+### **Languages**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-#### **Web Development**  
+### **Web Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ---
 
-### 📬 Get in Touch:
+## 📬 Get in Touch:
 <div align="center">
   <a href="https://github.com/biru-codeastromer" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub" />
@@ -72,7 +75,7 @@
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biru-codeastromer&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biru-codeastromer&layout=compact&theme=radical" alt="Top Languages" />
@@ -81,21 +84,21 @@
 
 ---
 
-### 🏆 **Achievements**
-- 🌟 District-level cricketer and tech enthusiast  
-- 🚀 Robotics and AI innovator with a focus on humanoid designs  
+## 🏆 **Achievements**
+
+- 🌟 Cleared Hacktoberfest 2024  
 - 💡 Open-source contributor to tech communities  
 
 ---
 
-### 🚀 **Future Goals**
+## 🚀 **Future Goals**
 - Build a scalable **AI-driven application**  
-- Create a **humanoid robot** prototype  
+- Create a **IPL teams based multipurpose website and app**
 - Participate in **Google Summer of Code (GSoC)**  
 
 ---
 
-### 🎨 **Fun Fact**
+## 🎨 **Fun Fact**
 When I’m not coding, I’m either batting on the cricket field or analysing cricketing stuff around!
 
 ---
