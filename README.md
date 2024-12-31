@@ -92,7 +92,9 @@
 ## 🏆 Achievements
 
 - 🌟 Cleared Hacktoberfest 2024  
-- 💡 Open-source contributor to tech communities  
+- 💡 Open-source contributor to tech communities
+
+- [![An image of @birucodeastromer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/birucodeastromer)](https://holopin.io/@birucodeastromer)
 
 ---
 
