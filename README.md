@@ -43,62 +43,67 @@
 
 ---
 
-## 🛠️ **Skills & Technologies**
 
-### **Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/birajit.saikia) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/birajit-saikia-08125030a) 
 
-### **Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📬 Get in Touch:
-<div align="center">
-  <a href="https://github.com/biru-codeastromer" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/github.png" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/birajit-saikia-08125030a/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/60/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/birajit.saikia/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/60/instagram-new.png" alt="Instagram" />
-  </a>
-  <a href="mailto:birajitsaikia@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/60/email.png" alt="Email" />
-  </a>
-</div>
-
----
-
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biru-codeastromer&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biru-codeastromer&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=biru-codeastromer&theme=github-dark" alt="GitHub Contribution Graph" />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=biru-codeastromer&theme=holi&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
-## 🏆 **Achievements**
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=biru-codeastromer&limit=5&theme=rose&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=biru-codeastromer&icon=5&color=5)](https://visitcount.itsvg.in)
+
+---
+
+## 🏆 Achievements
 
 - 🌟 Cleared Hacktoberfest 2024  
 - 💡 Open-source contributor to tech communities  
 
 ---
 
-## 🚀 **Future Goals**
+## 🚀 Future Goals
 - Build a scalable **AI-driven application**  
 - Create a **IPL teams based multipurpose website and app**
 - Participate in **Google Summer of Code (GSoC)**  
 
 ---
 
-## 🎨 **Fun Fact**
+## 🎨 Fun Fact
 When I’m not coding, I’m either batting on the cricket field or analysing cricketing stuff around!
 
 ---
