@@ -2,6 +2,12 @@
   <img src="birajit_logo.svg" alt="Custom Logo" width="300" />
 </div>
 
+
+<div align="center">
+  <img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/discordprofile.png" alt="BiruCommits Banner" width="100%" />
+</div>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+everyone%2C;Myself+BIRAJIT+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing Animation">
 </div>
