@@ -48,6 +48,9 @@
 - 🎨 Full-stack development projects to build innovative web solutions   
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biru-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 
 ## 🌐 Socials:
