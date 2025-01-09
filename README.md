@@ -28,7 +28,7 @@
 
 - 🤖 Artificial Intelligence 
 - 💻 Software Development & Full Stack Web Development  
-- 🏏 Cricket (because coding isn’t my only game!😄)
+- 🏏 Cricket (because coding isn’t my only game😄)
 
 ---
 
