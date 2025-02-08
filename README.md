@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="birajit_logo.svg" alt="Custom Logo" width="300" />
-</div>
-
-
-<div align="center">
   <img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/discordprofile.png" alt="BiruCommits Banner" width="100%" />
 </div>
 
