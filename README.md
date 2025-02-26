@@ -11,7 +11,7 @@
 
 ![BIRAJIT SAIKIA Animation](https://raw.githubusercontent.com/biru-codeastromer/biru-codeastromer/main/ghpp.gif)
 
-Aspiring software engineer who loves web development, AI, and automation. I thrive on building scalable software solutions and crafting seamless user experiences. Currently exploring C++, data structures & algorithms, front-end frameworks, and best practices in software development. Loves open source projects, python automation, and full-stack web development. 
+### Aspiring software engineer who loves web development, AI, and automation. I thrive on building scalable software solutions and crafting seamless user experiences. Currently exploring C++, data structures & algorithms, front-end frameworks, and best practices in software development. Loves open source projects, python automation, and full-stack web development. 
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biru-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
@@ -67,13 +67,13 @@ Aspiring software engineer who loves web development, AI, and automation. I thri
 ## 🏆 Achievements
 
 - 🌟 Cleared Hacktoberfest 2024  
-- 💡 Open-source contributor to tech communities
+- 💡 Open-source contributor to tech communities 
 
-- [![An image of @birucodeastromer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/birucodeastromer)](https://holopin.io/@birucodeastromer)
+[![An image of @birucodeastromer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/birucodeastromer)](https://holopin.io/@birucodeastromer)
 
 ---
 
-## 🎨 Fun Fact
+## Fun Fact
 When I’m not coding, I’m either batting on the cricket field or analysing cricketing stuff around!
 
 ---
