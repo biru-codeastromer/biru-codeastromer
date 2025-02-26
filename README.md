@@ -11,36 +11,7 @@
 
 ![BIRAJIT SAIKIA Animation](https://raw.githubusercontent.com/biru-codeastromer/biru-codeastromer/main/ghpp.gif)
 
-## 🌟 About Me  
-
-- 🚀 AI Enthusiast  | 💻 Web Developer
-- 🎨 Full-stack developer
-- 🌐 Passionate about blending creativity with technology to craft innovative solutions.
-
----
-
-## 👀 What I'm Interested In
-
-- 🤖 Artificial Intelligence 
-- 💻 Software Development & Full Stack Web Development  
-- 🏏 Cricket (because coding isn’t my only game😄)
-
----
-
-## 🌱 **What I’m Learning**
-
-- 🔷 **C++**: Enhancing my programming expertise  
-- 📚 **Data Structures & Algorithms**: Mastering computational problem-solving  
-- 🌐 **Front-End Development**: Exploring modern UI frameworks and tools  
-- 🛠️ **Best Practices**: Software development and project management methodologies  
-
----
-
-## 💞️ **What I’m Looking to Collaborate On**
-
-- 🌍 Open-source projects focused on **AI**, **web & app development**, and **automation**  
-- 🔧 Python-based automation tools and applications  
-- 🎨 Full-stack development projects to build innovative web solutions   
+Aspiring software engineer who loves web development, AI, and automation. I thrive on building scalable software solutions and crafting seamless user experiences. Currently exploring C++, data structures & algorithms, front-end frameworks, and best practices in software development. Loves open source projects, python automation, and full-stack web development. 
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biru-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
@@ -99,13 +70,6 @@
 - 💡 Open-source contributor to tech communities
 
 - [![An image of @birucodeastromer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/birucodeastromer)](https://holopin.io/@birucodeastromer)
-
----
-
-## 🚀 Future Goals
-- Build a scalable **AI-driven application**  
-- Create a **IPL teams based multipurpose website and app**
-- Participate in **Google Summer of Code (GSoC)**  
 
 ---
 
