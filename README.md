@@ -14,7 +14,7 @@
 **Aspiring software engineer who loves web development, AI, and automation 🧑🏻‍💻. 
 I thrive on building scalable software solutions and crafting seamless user experiences. 
 Currently exploring C++, data structures & algorithms, front-end frameworks, and best practices in software development. 
-Loves open source projects, python automation, and full-stack web development.🪄**
+Loves open source projects, python automation, and full-stack web development🪄**
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biru-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
