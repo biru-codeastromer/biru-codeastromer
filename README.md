@@ -81,6 +81,3 @@ When I’m not coding, I’m either batting on the cricket field or analysing cr
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-</div>
