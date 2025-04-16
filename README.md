@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=FA00FF&center=true&vCenter=true&width=600&lines=BIRAJIT+SAIKIA;Spending+time+in+GitHub+%F0%9F%8C%9F;is+the+Best+Work" alt="Neon Typing">
 
+![BIRAJIT SAIKIA Image](https://github.com/biru-codeastromer/biru-codeastromer/blob/main/my-image.png)
+
 ---
 
 **Aspiring software engineer who loves web development, AI, and automation 🧑🏻‍💻. 
