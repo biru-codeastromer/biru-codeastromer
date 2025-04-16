@@ -1,12 +1,14 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/animated-github.gif" width="200" />
-</div>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=FA00FF&center=true&vCenter=true&width=600&lines=BIRAJIT+SAIKIA;Spending+time+in+GitHub+%F0%9F%8C%9F;is+the+Best+Work" alt="Neon Typing">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=FA00FF&center=true&vCenter=true&width=600&lines=BIRAJIT+SAIKIA;Spending+time+in+GitHub+%F0%9F%8C%9F;is+the+Best+Work" alt="Neon Typing" />
+</p>
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/my-github-ai-image.png" width="200" />
-</div>
+</p>
 
 ---
 
@@ -15,9 +17,10 @@ I thrive on building scalable software solutions and crafting seamless user expe
 Currently exploring C++, data structures & algorithms, front-end frameworks, and best practices in software development. 
 Loves open source projects, python automation, and full-stack web development🪄**
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/animated-github2.gif" width="200" />
-</div>
+</p>
+
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biru-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
