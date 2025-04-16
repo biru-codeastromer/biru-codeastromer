@@ -1,6 +1,8 @@
+![BIRAJIT SAIKIA Animation](https://github.com/biru-codeastromer/biru-codeastromer/blob/main/animated-github.gif)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=FA00FF&center=true&vCenter=true&width=600&lines=BIRAJIT+SAIKIA;Spending+time+in+GitHub+%F0%9F%8C%9F;is+the+Best+Work" alt="Neon Typing">
 
-![BIRAJIT SAIKIA Image](https://github.com/biru-codeastromer/biru-codeastromer/blob/main/my-image.png)
+<img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/my-github-ai-image.png" width="200" style="display:block; margin-left:auto; margin-right:auto;" />
 
 ---
 
@@ -8,6 +10,8 @@
 I thrive on building scalable software solutions and crafting seamless user experiences. 
 Currently exploring C++, data structures & algorithms, front-end frameworks, and best practices in software development. 
 Loves open source projects, python automation, and full-stack web development🪄**
+
+![BIRAJIT SAIKIA Animation 2](https://github.com/biru-codeastromer/biru-codeastromer/blob/main/animated-github2.gif)
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biru-codeastromer&theme=rose&hide_border=true)](https://git.io/streak-stats)
@@ -49,10 +53,4 @@ Loves open source projects, python automation, and full-stack web development�
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=biru-codeastromer&theme=holi&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=biru-codeastromer&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
 ---
