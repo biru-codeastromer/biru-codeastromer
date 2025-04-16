@@ -1,15 +1,6 @@
-<div align="center">
-  <img src="https://github.com/biru-codeastromer/biru-codeastromer/blob/main/discordprofile.png" alt="BiruCommits Banner" width="100%" />
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+everyone%2C;Myself+BIRAJIT+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing Animation">
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=FA00FF&center=true&vCenter=true&width=600&lines=BIRAJIT+SAIKIA;Spending+time+in+GitHub+%F0%9F%8C%9F;is+the+Best+Work" alt="Neon Typing">
 
 ---
-
-![BIRAJIT SAIKIA Animation](https://raw.githubusercontent.com/biru-codeastromer/biru-codeastromer/main/ghpp.gif)
 
 **Aspiring software engineer who loves web development, AI, and automation 🧑🏻‍💻. 
 I thrive on building scalable software solutions and crafting seamless user experiences. 
@@ -63,21 +54,3 @@ Loves open source projects, python automation, and full-stack web development�
 ![](https://github-contributor-stats.vercel.app/api?username=biru-codeastromer&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
-## [![](https://visitcount.itsvg.in/api?id=birucodeastromer&label=Commits%20watchers&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
----
-
-## 🏆 Achievements
-
-- 🌟 Cleared Hacktoberfest 2024  
-- 💡 Open-source contributor to tech communities 
-
-[![An image of @birucodeastromer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/birucodeastromer)](https://holopin.io/@birucodeastromer)
-
----
-
-## Fun Fact
-When I’m not coding, I’m either batting on the cricket field or analysing cricketing stuff around!
-
----
-
